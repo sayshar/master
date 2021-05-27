@@ -1,5 +1,5 @@
 ---
-description: How to Contribute to this guide
+description: Cómo contribuir con esta guía
 ---
 
 # Contribuir
