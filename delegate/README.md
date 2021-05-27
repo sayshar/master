@@ -1,5 +1,5 @@
 ---
-description: Support Decentralization
+description: Apoya la Descentralización
 ---
 
 # Delega
@@ -19,4 +19,6 @@ description: Support Decentralization
 {% hint style="success" %}
 **We also take donations** [**https://cointr.ee/armada-alliance**](https://cointr.ee/armada-alliance)**, thank you for your support!**
 {% endhint %}
+
+
 
