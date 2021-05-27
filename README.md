@@ -1,6 +1,6 @@
-# Welcome Pi Operators
+# Bienvenidos Opedadores de Pi
 
-## You want to become a Raspberry Pi Stake Pool Operator on Cardano...but where should you start!? 😳
+## ¿Quieres ser un Operador de un Stake Pool de Cardano con una Raspberry Pi... por dónde deberías empezar?😳
 
 ![](.gitbook/assets/download-6-.jpeg)
 
