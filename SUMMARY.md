@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenidos Opedadores de Pi](README.md)
-* [Delegate](delegate/README.md)
+* [Delega](delegate/README.md)
   * [How to delegate ADA](delegate/how-to-delegate-ada.md)
 * [Contribute](how-to-contribute/README.md)
   * [Contributing Guide](how-to-contribute/untitled-1/README.md)
