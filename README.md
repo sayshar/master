@@ -1,4 +1,4 @@
-# Bienvenidos Opedadores de Pi
+# Bienvenidos Opedadores Pi
 
 ## ¿Quieres ser un Operador de un Stake Pool de Cardano con una Raspberry Pi... por dónde deberías empezar?😳
 

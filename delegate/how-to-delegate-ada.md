@@ -1,8 +1,8 @@
 ---
-description: Put your ADA to work today!
+description: ¡Pon tus ADA a trabajar ahora!
 ---
 
-# How to delegate ADA
+# Cómo delegar tus ADA
 
 * **See this link for an explanation on delegation:**  [**https://cardano.org/stake-pool-delegation/**](https://cardano.org/stake-pool-delegation/)\*\*\*\*
 * **You always maintain full control of your ADA in your own wallet when you delegate.**
