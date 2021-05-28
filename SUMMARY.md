@@ -4,11 +4,11 @@
 * [Delega](delegate/README.md)
   * [Cómo delegar tus ADA](delegate/how-to-delegate-ada.md)
 * [Contribuir](how-to-contribute/README.md)
-  * [Contributing Guide](how-to-contribute/untitled-1/README.md)
+  * [Guía de Contribución](how-to-contribute/untitled-1/README.md)
     * [Style Guide](how-to-contribute/untitled-1/style-guide.md)
     * [Code of Conduct](how-to-contribute/untitled-1/untitled.md)
 
-## What is required <a id="before-you-get-started..."></a>
+## Qué se necesita <a id="before-you-get-started..."></a>
 
 * [Resource Library](before-you-get-started.../prerequisites-and-recommended-resources-to-review.md)
 * [Hardware Purchase Links](before-you-get-started.../hardware.md)
