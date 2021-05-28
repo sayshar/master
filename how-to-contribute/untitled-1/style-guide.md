@@ -1,34 +1,38 @@
 ---
-description: Style Guide for participating in this project.
+description: Materiaalin tyyliohje ohjeistusten laatimiseen.
 ---
 
-# Style Guide
+# Tyyliohje
 
-_**From the GitHub Manual of Style, which this style guide inherits from:**_
+_**Ote GitHub Manual of Style dokumentaatiosta, jonka pohjalta tämä ohje on laadittu:**_
 
 > Words are an important part of how software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
 >
 > In other words, the way we write is just as important as the way we design. Consider these things when writing copy.
 
-## Content principles
+## Sisältöperiaatteet
 
-All written content should follow these principles:
+Kaiken kirjoitetun sisällön tulee noudattaa näitä periaatteita:
 
-* **Approachability:** Don't assume the reader has prior knowledge
-* **Brevity:** Keep it simple, link to outside content for deeper dives
-* **Curation:** Amplify community best practices vs. any individual's point of view
+* **Helposti lähestyttävä:** Oleta, ettei lukijalla ole aiheesta aiempaa tietoa
+* **Ytimekäs:** Pidä teksti yksinkertaisena, ohjaa linkeillä kohti syvempää tietoa
+* **Tietojen suodatus:** Vahvista yhteisön parasta toiminta tapaa, ei yksilöllistä näkökantaa
 
-Content should maintain a light-hearted and welcoming tone. Open source is fun! Readers should feel inspired, not discouraged, by the tone of your writing, and they should trust you to help them get started.
+Sisällön tulee säilyttää kevyt ja helposti lähestyttävä sävy. Avoimet lähteet ovat hauskoja! Sisällön tulisi innostaa lukijoita, ei lannistaa. Tämä tulee huomioida kirjoitustyylissä. Lisäksi tekstin tulee herättää lukijassa luottamusta siihen, että kyseinen ohje oikeasti auttaa häntä pääsemään alkuun omassa projektissaan.
 
-## Mentions
+## Maininnat
 
-When referring to people that use GitHub, use @mentions of their username instead of their full name.
+Kun mainitset toisen GitHubin käyttäjän, käytä @mainintaa käyttäjätunnuksesta, koko nimen sijaan.
 
-* 😄 As @Ekkyz put it...
-* 😢 As [Ekkyz](https://github.com/Ekkyz) put it...
+Esimerkiksi:
 
-When referring to a project on GitHub, link to the repository so others can dive deeper, if they choose.
+* 😄 Kuten @Ekkyz aiemmin kertoi...
+* 😢 Kuten [Ekkyz](https://github.com/Ekkyz) aiemmin kertoi...
 
-* 😄 @AstroWa3l took a similar approach to [dat](https://github.com/datproject/dat)...
-* 😢 @AstroWa3l took a similar approach to dat...
+Kun viittaat GitHub projektiin, linkkaa tietolähde tekstiin, jotta lukijan on helppo tutustua aiheeseen syvemmin halutessaan.
+
+Esimerkiksi:
+
+* 😄 @AstroWa3l käytti samankaltaista lähestymistapaa [dat](https://github.com/datproject/dat)...
+* 😢 AstroWa3l käytti samankaltaista lähestymistapaa [dat](https://github.com/datproject/dat)...
 

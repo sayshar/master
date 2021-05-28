@@ -1,56 +1,59 @@
 ---
-description: Contributing Guide for participating in this project.
+description: Ohjeita osallistumiseen tämän sivuston kehittämiseen.
 ---
 
-# Contributing Guide
+# Osallistumisohje
 
-_**What we are looking for in our Contributors.**_
+_**Mitä odotamme osallistujilta?**_
 
-Firstly, we at Armada-Alliance would like to thank you for your consideration in contributing to us! We can't wait to hear your ideas and experiences. However, we do have some guidelines that we all must be familiar with and adhere to before submitting your contributions.
+Ensiksi, me Armada-Allianssissa olemme onnellisia kiinnostuksestasi projektiamme kohtaan ja halustasi osallistua sen kehittämistyöhön! Odotamme innolla jotta pääsemme kuulemaan kehitysideoitasi, mutta ennen sitä ole hyvä ja tutustu tähän ohjeeseen. 
 
-## Table of Contents
+## Sisällys
 
-1. What we are looking for
-2. Rules and Expectations
-3. How to contribute
-4. Style Guide
-5. Community
+1. Mitä etsimme
+2. Säännöt ja odotukset
+3. Kuinka osallistua
+4. Tyyliohjeet
+5. Yhteisö
 
-What we are looking for
+_**Mitä etsimme**_
 
-_We appreciate all contributions but we do have aspects of the project that take priority._
+_Arvostamme kaikkea panostusta projektiimme, mutta meillä on muutamia projektiin liittyviä näkökulmia, jotka priorisoidaan ennen muita._
 
-* Find and fix inconsistencies and errors in guides
-* Translating the guides into different languages
-* Help explain guides to others from different various backgrounds and knowledge levels
+* Ohjeistuksista löytyvien virheiden ja epäjohdonmukaisuuksien löytäminen ja korjaaminen
+* Ohjeistusten kääntäminen eri kielille
+* Ohjeistusten selittäminen muille, jotka tulevat erilaisista lähtökohdista ja omaavat lähtökohtaisesti erilaisia tieto-/taitotasoja 
 
-Rules and Expectations
+_**Säännöt ja odotukset**_
 
-_As an open-source project we expect a certain standard from you:_
+_Koska tämä on avoin projekti, odotamme sinulta pitäytymistä muutamiin normeihin ja säännöksiin:_
 
-* Be respectful and open-minded to others' opinions and conversations around this project. Understand that as a community we should all be working together. Take into consideration that the way in which another contributor is helping may be different from your own and that it is more productive to help each other out rather than argue about which way is "correct".
-* Armada-Alliance's tutorials are released with a Contributors Code of Conduct. Through partaking in this project you agreed to abide by these terms.
-* If you open a pull request, please make sure that your contribution passes all tests, as failures will sunder the project and a fix must be made.
-* Content that is to be added should be relevant to the project and not include self-promotion or the promotion of sponsors. Understand that what is submitted here will be considered open source and will be shared freely amongst everyone. 
+* Ole avomielinen ja kunnioita muiden mielipiteitä projektiin liittyvissä keskusteluissa. Sinun tulee ymmärtää, että pyrimme työskentelemään yhteistyössä projektimme eteenpäin viemiseksi. Ota myös huomioon, että toinen osallistuja voi auttaa ja työskennellä projketin eteen eri tavoin kuin sinä itse ja on paljon tuottavampaa auttaa toisia, kuin kiistellä "oikeasta" tavasta tehdä asioita.
+* Armada-Allianssin ohjeistukset julkaistaan Contributors Code of Conduct standardin mukaisesti. Osallistuessasi projektiimme sitoudut noudattamaan tätä standardia.
+* Mikäli avaat pull requestin, varmista että työsi läpäisee kaikki testit, sillä virheet voivat rikkoa projektin ja projekti on jälleen korjattava, mikä tietenkin lisää tarvittavaa työtä.
+* Lisättävän sisällön tulee olla projketille oleellista, eikä oman edun tavoittelua tai sponsoreiden mainostamista.
+* Projektille tuotettu materiaali on avointa ja jaetaan vapaasti kaikkien kesken.
 
-_**How to contribute**_
+_**Kuinka osallistua**_
 
-_First, thoroughly read through the project and consider what level of contribution yours will be._
+_Ensiksi, lue projekti huolella läpi ja mieti millä tasolla haluat projektiin osallistua._
 
-* For a minor contribution, such as grammar, open a pull request.
-* For a major contribution, such as a new tutorial, start by ordering an issue first. This way the community can assess and discuss your idea before you start working on it.
+* Pieni työ, kuten tekstien kielentarkastus, avaa vetopyyntö \(pull request\).
+* Suuri työ, kuten uuden ohjeistuksen laatiminen. Tee aloite \(new issue in github\), jossa kuvaat suunnittelemasi työn. Tällä tavalla koko yhteisö voi arvioida ja keskustella ideastasi, ennen kuin aloitat työn.
 
-_**Style Guide**_
+_**Tyyliohje**_
 
-_If you are contributing tutorials or guides please check out our_ Style Guide _so that it blends into the project seamlessly._
+_Jos aiot laatia ohjeistuksen tutustu erilleseen_ Tyyliohjeeseen _ja pitäydy siinä, jotta ohjeesi sulautuu saumattomasti muuhun materiaaliin._
 
-_**Community**_
+_**Yhteisö**_
 
-Discussions about the Open Source Guides take place on this repository's Issues and Pull Requests sections. Anybody is welcome to join these conversations.
+Ohjeistuksiin ja materiaaleihin liittyvä keskustelu käydään tämän tietolähteen \(repository\) aloite \(issues\) ja vetopyyntö \(pull request\) alueilla. Kaikki ovat tervetulleita ottamaan osaa näihin keskusteluihin.
 
-Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everyone can benefit and learn from the conversation.
+Mikäli suinkin mahdollista, älä käytä keskusteluihin yksityisiä kanavia, mukaan lukien suora yhteydenotto ylläpitäjiin. Keskustelujen ollessa julkisia, kaikki voivat hyötyä ja oppia niistä.
 
-Attribution
+_**Viite**_
 
-This contributing guide is adapted from the opensource.guide
+Tämä osallistumisohje on muunneltu lähteestä: opensource.guide
+
+This contributing guide is adapted from the [open-source-guide](https://github.com/github/opensource.guide)
 
