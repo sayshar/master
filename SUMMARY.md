@@ -5,8 +5,8 @@
   * [Cómo delegar tus ADA](delegate/how-to-delegate-ada.md)
 * [Contribuir](how-to-contribute/README.md)
   * [Guía de Contribución](how-to-contribute/untitled-1/README.md)
-    * [Style Guide](how-to-contribute/untitled-1/style-guide.md)
-    * [Code of Conduct](how-to-contribute/untitled-1/untitled.md)
+    * [Guía de Estilo](how-to-contribute/untitled-1/style-guide.md)
+    * [Código de Conducta](how-to-contribute/untitled-1/untitled.md)
 
 ## Qué se necesita <a id="before-you-get-started..."></a>
 

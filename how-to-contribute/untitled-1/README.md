@@ -8,7 +8,7 @@ _**Lo que estamos buscando en nuestros Colaboradores.**_
 
 Firstly, we at Armada-Alliance would like to thank you for your consideration in contributing to us! We can't wait to hear your ideas and experiences. However, we do have some guidelines that we all must be familiar with and adhere to before submitting your contributions.
 
-## Table of Contents
+## Tabla de Contenidos
 
 1. What we are looking for
 2. Rules and Expectations
