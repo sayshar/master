@@ -1,16 +1,16 @@
-# Welcome Pi Operators
+# Selamat Datang Pengendali-Pengendali Pi
 
-## You want to become a Raspberry Pi Stake Pool Operator on Cardano...but where should you start!? 😳
+## Anda mahu menjadi pengendali stake pool Raspberry Pi...tetapi tidak tahu bagaimana bermula!? 😳
 
 ![](.gitbook/assets/download-6-.jpeg)
 
-### **Welcome to the Armada Alliance's information and tutorials section.** We are a community of RPi-ARM Cardano Stake Pool Operators who aim to provide support and free educational resources to future Stake Pool Operators. 
+### **Selamat datang ke seksyen maklumat dan tutorial Armada Alliance.** Kami adalah komuniti Pengendali Stake Pool RPi-ARM Cardano yang berniat untuk memberi sokongan dan sumber pendidikan kepada Pengendali Stake Pool masa depan.
 
-###  Although our focus is RPi-ARM stake pool operations, we will provide a wide range of information, tutorials, and resources for developing on Cardano. If you would like to know more about the project and our goals, please see our Fund4 proposal on _Project Catalyst_ for details or join our _Discord_.
+### Walaupun fokus kami adalah terhadap operasi stake pool RPi-ARM, kami tetap akan memberi pelbagai maklumat, tutorial dan sumber untuk pembangunan di Cardano. Jika anda mahu mengetahui tentang projek dan matlamat kami, sila lihat cadangan Fund4 di _Project Catalyst_ untuk mendapatkan perincian, ataupun sertai _Discord_ kami.
 
-| Contact Us |
+| Hubungi Kami |
 | :--- |
-| [Website](https://armada-alliance.com) |
+| [Laman Web](https://armada-alliance.com) |
 | [Discord](https://discord.com/channels/815680220827746364/815680224460931074) |
 | [Project Catalyst ](https://cardano.ideascale.com/a/dtd/ARMing-Cardano/340480-48088#idea-tab-comments) |
 | [GitHub](https://github.com/armada-alliance) |
